@@ -28,7 +28,7 @@ Construir um projeto onde é possível se cadastrar pontos de coleta para descar
 ## Pagina Home
 
 <div align="center">
-<img src="web/src/assets/logo.svg">
+<img src="./home.png">
 </div>
 
 ## Stack
