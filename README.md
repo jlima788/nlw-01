@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ecoleta" src="web/src/assets/home-background.svg" width="100px" />
+    <img alt="Ecoleta" src="web/src/assets/home-background.svg" width="300px" />
 </h1>
 
 <h3 align="center">
@@ -28,7 +28,7 @@ Construir um projeto onde é possível se cadastrar pontos de coleta para descar
 ## Pagina Home
 
 <div align="center">
-<img src="web/src/assets/logo.png">
+<img src="web/src/assets/logo.svg">
 </div>
 
 ## Stack
